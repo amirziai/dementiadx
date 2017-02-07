@@ -1,6 +1,9 @@
 # Dementia Dx
 Better dementia diagnosis through data
 
+Blog post:
+https://medium.com/@amirziai/dementia-dx-better-dementia-diagnoses-through-data-eaa45af14874#.xzguuds2y
+
 ## Prediction
 > http://dementia.ml/predict2
 
